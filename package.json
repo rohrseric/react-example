@@ -1,0 +1,35 @@
+{
+  "name": "react-example",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "browserify": "^14.3.0",
+    "browserify-incremental": "^3.1.1",
+    "material-ui": "^0.17.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-tap-event-plugin": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohrseric/react-example.git"
+  },
+  "keywords": [
+    "react",
+    "rails"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohrseric/react-example/issues"
+  },
+  "homepage": "https://github.com/rohrseric/react-example#readme"
+}
